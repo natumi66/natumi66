@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=natumi66&theme=onedark&column=7
-)](https://github.com/ryo-ma/github-profile-trophy
+)](https://github.com/ryo-ma/github-profile-trophy)
