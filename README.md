@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natumi66&layout=compact&show_icons=true&count_private=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=natumi66&theme=onedark&show_icons=ture&count_private=true" />
+  <!-- Top Languages（private反映されません） -->
+  <img alt="Top Langs" height="150px" src="https://myrepository-alpha-eight.vercel.app/api/top-langs/?username=natumi66&layout=compact&show_icons=true&theme=onedark" />
+  <!-- GitHub Stats（private contributions含む） -->
+  <img alt="github stats" height="150px" src="https://myrepository-alpha-eight.vercel.app/api?username=natumi66&theme=onedark&show_icons=true&count_private=true" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=natumi66&theme=onedark&column=7
-)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=natumi66&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
